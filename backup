@@ -1,0 +1,13 @@
+            //nome, Pontos de vida, Pontos de Magia e Classe
+            string nome = "Arus";
+            int pontosDeVida = 100;
+            int pontosDeMagia = 5;
+            string classeFantastica = "guerreiro";
+            
+            string nome2 = "Wedge";
+            int pontosDeVida2 = 60;
+            int pontosDeMagia2 = 100;
+            string classeFantastica2 = "Mago Negro";
+
+            Console.WriteLine(" O nome do meu herói é: " + nome);
+            Console.WriteLine(" O nome do meu herói é: " + nome2);
